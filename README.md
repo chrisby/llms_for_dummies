@@ -22,7 +22,7 @@ To be a good ML scientist/engineer/practitioner, you need to understand the syst
 | Notebook | What You'll Learn |
 |----------|-------------------|
 | [Standard Attention](attention/standard_attention.ipynb) | Why the $N \times N$ attention matrix is a memory bottleneck, and how tiling strategies affect memory consumption |
-| [FlashAttention](attention/flash_attention.ipynb) | How online softmax helps reducing traffic by ~3x |
+| [FlashAttention](attention/flash_attention.ipynb) | How online softmax helps reduce traffic by ~3x |
 
 ### Planned Topics
 
