@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "llms_for_dummies"
 version = "0.1.0"
-description = "GPU memory hierarchy simulator for understanding attention mechanisms"
+description = "Interactive notebooks for building intuition about modern LLM internals"
 license = "Apache-2.0"
 requires-python = ">=3.11"
 classifiers = [
