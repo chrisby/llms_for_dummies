@@ -24,13 +24,19 @@ To be a good ML scientist/engineer/practitioner, you need to understand the syst
 | [Standard Attention](attention/standard_attention.ipynb) | Why the $N \times N$ attention matrix is a memory bottleneck, and how tiling strategies affect memory consumption |
 | [FlashAttention](attention/flash_attention.ipynb) | How online softmax helps reduce traffic by ~3x |
 
+### Positional Encoding
+
+| Notebook | What You'll Learn |
+|----------|-------------------|
+| [Sinusoidal PE](positional_encoding/sinusoidal.ipynb) | Why attention is permutation-equivariant and how sinusoidal encoding injects position |
+
 ### Planned Topics
 
 Happy to consider any other topics you're interested in. Just raise an issue!
 
 | Topic | Status |
 |-------|--------|
-| Positional Encoding (Sinusoidal, RoPE) | Coming soon |
+| Positional Encoding (RoPE) | Coming soon |
 
 ## Getting Started
 
